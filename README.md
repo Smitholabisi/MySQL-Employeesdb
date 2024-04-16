@@ -1,15 +1,15 @@
 # MySQL-Employees DATABASE 
 
-## Retrieving Employees information 
+## Retrieving Employees information, salary.
 
-creating databases, use the databases, DDL, DML, databases management skills, SQL proficiency and understanding of real- world applications.
+Creating databases, use the databases, databases management skills, SQL proficiency and understanding of real- world applications.
 
--- 1 show all the columns and rows in the table
+-- 1. show all the columns and rows in the table
 
 Select dept_no
 from departments;
 
--- 2 show all the first name and last name 
+-- 2. show all the first name and last name 
 select first_name, Last_name
 from employees;
 
